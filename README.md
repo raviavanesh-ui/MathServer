@@ -139,12 +139,6 @@ urlpatterns = [
 ]
 
 ```
-
-
-## RESULT:
-The program for performing server side processing is completed successfully.
-
-
 ## SERVER SIDE PROCESSING:
 <img width="1908" height="1003" alt="Screenshot 2025-12-23 205027" src="https://github.com/user-attachments/assets/2739edc3-1696-4c94-8b14-c1b55bdfb845" />
 
